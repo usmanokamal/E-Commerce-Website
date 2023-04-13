@@ -1,0 +1,2 @@
+Hello and Assalam o Aliukum. Welcome to my website. Please open "home.html" from the files. It serves as the first page (or home page) for the website. You can then navigate to other pages from there.
+Thank you! 
